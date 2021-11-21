@@ -1,0 +1,20 @@
+:root {
+  --bigblue: #014785;
+}
+html, body {
+    font-family:Arial;
+}
+/* colors */
+
+button {   
+    background: var(--bigblue);
+    color:#fff;
+}
+
+/* layout */
+
+button {
+      padding:1em 1.5em 1em 1.5em;
+    box-shadow: none;
+    border:none;  
+}
